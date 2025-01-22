@@ -1,2 +1,5 @@
 # windows-tweaks
-In this repository I will store cool projects and tools to customize your Windows installation
+
+https://github.com/ChrisTitusTech/winutil
+https://nilesoft.org/docs/installation
+https://windhawk.net/
